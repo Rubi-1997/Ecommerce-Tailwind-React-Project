@@ -17,7 +17,7 @@ function App() {
       <AboutUs/>
       <DiscountSection/>
       <Blog/>
-      
+      {/* here is footer */}
       <Footer/>
     </div>
   );
